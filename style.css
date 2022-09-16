@@ -14,4 +14,10 @@ h1 {
   .hard {
     font-style:italic;
   }
+  .es {
+    font-size:20px;
+  }
+  .pt {
+    font-size: 21px;
+  }
   
