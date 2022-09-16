@@ -20,4 +20,7 @@ h1 {
   .pt {
     font-size: 21px;
   }
+  .profilePicture {
+    border-radius: 50%;
+  }
   
