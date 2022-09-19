@@ -56,9 +56,21 @@ div.header {
       border: 1px solid;
       padding: 10px;
   }
-  a:hover{
+  a.contatos:hover{
     box-shadow: 3px 3px 5px black;
-    background-color: black;
+   
     transition-delay: 200ms;
+    border: 0px;
   }
-  
+
+  footer {
+    text-align: center;
+    font-style: italic;
+  }
+  footer img {
+    text-decoration: none; 
+  }
+  footer button {
+    border-radius: 15px;
+    width: 100px;
+  }
